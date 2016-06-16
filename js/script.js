@@ -1,6 +1,6 @@
 /* ---- particles.js config ---- */
 
-particlesJS("skill", {
+particlesJS("this", {
   "particles": {
     "number": {
       "value": 150,
